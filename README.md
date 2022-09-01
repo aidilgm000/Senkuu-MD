@@ -58,7 +58,7 @@ WhatsApp Bot Multi Device
 > pkg install git
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
-> git clone https://github.com/xzeera-id/Senkuu-MD
+> git clone https://github.com/aidilgm000/Senkuu-MD
 > cd Senkuu-MD
 > npm install
 > npm start
